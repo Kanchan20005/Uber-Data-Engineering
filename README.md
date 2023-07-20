@@ -24,6 +24,6 @@ This is an end-to-end data engineering Project using Uber Trip data from New Yor
 
 <p>
      <img src="https://github.com/Kanchan20005/Uber-Data-Engineering/blob/main/Dashboard.png" align="left"
-     alt="Dashboard" width="650" height="550">
+     alt="Dashboard" width="1208" height="892">
 </p>
 
