@@ -7,7 +7,7 @@ This is an end-to-end data engineering Project using Uber Trip data from New Yor
      alt="Mage-ai" width="1000" height="500">
 </p>
 
-<be />
+<br>
 
 
 
@@ -15,6 +15,10 @@ This is an end-to-end data engineering Project using Uber Trip data from New Yor
 
 
 # Dashboard
+
+<br>
+
+
 <p>
      <img src="https://github.com/Kanchan20005/Uber-Data-Engineering/blob/main/Dashboard.png" align="left"
      alt="Mage-ai" width="920" height="424">
