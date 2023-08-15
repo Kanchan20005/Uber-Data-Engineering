@@ -7,7 +7,7 @@ This is an end-to-end data engineering Project using Uber Trip data from New Yor
 #Mage End-To-End Data Transformation (ETL) pipeline
 <p>
 <img src="https://github.com/Kanchan20005/Uber-Data-Engineering/blob/main/Mage-ETL%20.png" align="left"
-     alt="Mage-ai" width="1000" height="500">
+     alt="Mage-ai"  width=100% height=100%>
 </p>
 
 <br>
@@ -24,6 +24,6 @@ This is an end-to-end data engineering Project using Uber Trip data from New Yor
 
 <p>
      <img src="https://github.com/Kanchan20005/Uber-Data-Engineering/blob/main/Dashboard.png" align="left"
-     alt="Dashboard" width="1208" height="892">
+     alt="Dashboard"  width=100% height=100%>
 </p>
 
